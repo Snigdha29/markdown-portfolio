@@ -1,0 +1,12 @@
+## My Skills:
+- _Programming Languages_
+  - **C++**
+  - **HTML**
+  - **CSS**
+  - **JavaScript**
+  - **PHP**
+- _Spoken Languages_
+  - **English**
+  - **Hindi**
+  - **Japanese**
+  - **Spanish**
