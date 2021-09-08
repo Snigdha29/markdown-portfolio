@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+## List of My Favorite Things:
+* Reading 📚
+* Going for walks
+* Collecting Course Certificates 😆
+* Listening to music 🎵 
